@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_china">中国</string>
+    <string name="txt_loading">加载中 &#8230; &#8230;</string>
+    <string name="txt_load_err">加载中失败</string>
+    <string name="txt_synchronization">同步中  &#8230; &#8230;</string>
+    <string name="txt_synchronization_err">同步失败！</string>
+    <string name="txt_today">今天</string>
+    <string name="txt_yesterday">昨天</string>
+    <string name="txt_publish">发布</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">天气助手</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="txt_china">China</string>
+    <string name="txt_loading">loading &#8230; &#8230;</string>
+    <string name="txt_load_err">load error!</string>
+    <string name="txt_synchronization">Synchronization &#8230; &#8230;</string>
+    <string name="txt_synchronization_err">Synchronization failed !</string>
+    <string name="txt_today">Today</string>
+    <string name="txt_yesterday">Yesterday</string>
+    <string name="txt_publish">publish</string>
+
+</resources>
