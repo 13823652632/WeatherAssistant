@@ -18,6 +18,7 @@ public class BaseActivity extends ActionBarActivity {
 		setData();
 		changeViews();
 		setListeners();
+		// Very Good!
 	}
 
 	protected void setCustomContentView(int layoutResID){
