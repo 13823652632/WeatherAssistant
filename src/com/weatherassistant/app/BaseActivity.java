@@ -18,15 +18,7 @@ public class BaseActivity extends ActionBarActivity {
 		setData();
 		changeViews();
 		setListeners();
-		// 新增Test类，喜欢吗。		
-		mTest();
-	}
-
-	/**
-	 * 测试方法，可以重写。
-	 */
-	protected void mTest() {
-		
+		// 不用测试了方法了，完全通过了！
 	}
 
 	protected void setCustomContentView(int layoutResID){
