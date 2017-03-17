@@ -18,6 +18,7 @@ public class BaseActivity extends ActionBarActivity {
 		setData();
 		changeViews();
 		setListeners();
+		// 新增Test类，喜欢吗。		
 		mTest();
 	}
 
