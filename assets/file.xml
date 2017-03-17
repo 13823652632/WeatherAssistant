@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"android:orderingFromXml="xx">
     <CheckBoxPreference android:summaryOn="on"/>
+    <!-- 请描述 -->
     <EditTextPreference android:dialogTitle="yes"/>
     <ListPreference android:entries="yoxi"/>
 </PreferenceScreen>
