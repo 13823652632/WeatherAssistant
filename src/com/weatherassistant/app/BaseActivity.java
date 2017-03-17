@@ -18,8 +18,7 @@ public class BaseActivity extends ActionBarActivity {
 		setData();
 		changeViews();
 		setListeners();
-		// 请把那些不必要的代码删除。
-		// 这个类写得不够好，以后重新弄一个
+		// 新增Test类，喜欢吗。		
 		mTest();
 }
 
