@@ -18,12 +18,13 @@ public class BaseActivity extends ActionBarActivity {
 		setData();
 		changeViews();
 		setListeners();
-		// 请把那些不必要的代码删除。
-		// 这个类写得不够好，以后重新弄一个
 		mTest();
-}
+	}
 
-	private void mTest() {
+	/**
+	 * 测试方法，可以重写。
+	 */
+	protected void mTest() {
 		
 	}
 
