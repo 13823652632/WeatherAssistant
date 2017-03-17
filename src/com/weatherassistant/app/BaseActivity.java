@@ -20,6 +20,7 @@ public class BaseActivity extends ActionBarActivity {
 		setListeners();
 		// Very Good!
 		// 提交一个汉语注释，让你的代码更新一下。
+		// 再Very Good一下，提交。
 }
 
 	protected void setCustomContentView(int layoutResID){
