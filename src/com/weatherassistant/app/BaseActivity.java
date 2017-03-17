@@ -19,7 +19,12 @@ public class BaseActivity extends ActionBarActivity {
 		changeViews();
 		setListeners();
 		// 这个类写得不够好，以后重新弄一个
+		mTest();
 }
+
+	private void mTest() {
+		
+	}
 
 	protected void setCustomContentView(int layoutResID){
 		setContentView(layoutResID);
