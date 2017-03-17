@@ -19,7 +19,8 @@ public class BaseActivity extends ActionBarActivity {
 		changeViews();
 		setListeners();
 		// Very Good!
-	}
+		// 提交一个汉语注释，让你的代码更新一下。
+}
 
 	protected void setCustomContentView(int layoutResID){
 		setContentView(layoutResID);
